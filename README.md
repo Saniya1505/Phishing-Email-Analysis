@@ -30,6 +30,3 @@ The detailed analysis is available in the `Phishing_Email_Analysis_Report.pdf` f
 
 ## ✅ Conclusion
 This task demonstrates the ability to detect phishing attempts using email header analysis, link inspection, and behavioral red flags.
-
-## ✅ Conclusion
-This task demonstrates the ability to detect phishing attempts using email header analysis, link inspection, and behavioral red flags
